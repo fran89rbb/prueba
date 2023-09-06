@@ -14,5 +14,9 @@ public class DemoApplication {
 	public void master() {
 		
 	}
+	
+	public void prueba1() {
+		
+	}
 
 }
